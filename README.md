@@ -1,3 +1,3 @@
 # git-hands-on-2
 
-# developブランチでの変更
+# mainブランチでの変更
